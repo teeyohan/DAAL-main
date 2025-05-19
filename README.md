@@ -18,7 +18,7 @@ It is recommended to download the CVC-ClinicDB dataset from the official website
 
 - CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
 
-, and place them in the "DAAL-main/data/" directory.
+, and place it in the "DAAL-main/data/" directory.
 
 ## Training and evaluation
 For training and evaluation, use the following script:

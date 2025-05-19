@@ -9,7 +9,7 @@ PyTorch implementation of "DAAL: Discrepancy-Aware Active Learning for Endoscopi
 ## Setup
 The following dependencies are recommended for the installation of the environment.
 
-- Python 3.8.13
+- python 3.8.13
 - torch 1.11.0
 - torchvision 0.12.0
 

@@ -3,7 +3,7 @@
 
 CUDA = 'cuda:0'
 MODE = 'test' # chose 'test' or 'val'
-TRIALS = 1 # number of repeat experiments
+TRIALS = 3 # number of repeat experiments
 
 # AL Settings
 INIT = 50
@@ -23,11 +23,11 @@ LLWEIGHT = 1.0 # Param for lloss
 TDWEIGHT = 1.0 # Param for TiDAL
 
 # Params for ATL_Seg
-BRI = 1. # brightness
-CON = 1. # contrast
-SAT = 1. # saturation
-HUE = 0. # hue
+BRI = 0.1 # brightness
+CON = 0.1 # contrast
+SAT = 0.1 # saturation
+HUE = 0.1 # hue
 DIS = 'Cos' # chose 'L1', 'L2' or 'Cos'
 LAMBDA = 1 # Loss Weight
 
-VOTE = 4 # number of expert for inference
+VOTE = 2 # number of expert for inference

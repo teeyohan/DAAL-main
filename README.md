@@ -16,7 +16,7 @@ The following dependencies are recommended for the installation of the environme
 ## Dataset
 It is recommended to download the CVC-ClinicDB dataset from the official website:
 
-- CVC-ClinicDB:
+- CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
 
 , and place them in the "DAAL-main/data/" directory.
 

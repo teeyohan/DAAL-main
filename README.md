@@ -1,6 +1,6 @@
 # DAAL-main
 
-PyTorch implementation of "DAAL: Discrepancy-Aware Active Learning for Endoscopic Image Segmentation via Human-Machine Chromatic Discrepancy".
+PyTorch implementation of "Enhancing Endoscopic Image Segmentation through Human-Machine Chromatic Discrepancy-Aware Active Learning".
 
 <div align="center">
   <img width="80%" alt="" src="DAAL.png">

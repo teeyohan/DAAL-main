@@ -26,3 +26,17 @@ For training and evaluation, use the following script:
 - `python main.py`
 
 , where config.py is the configuration file.
+
+## Citation
+If you find our work useful in your research please consider citing our paper:
+```
+@article{han2026daal,
+  title={DAAL: Discrepancy-Aware Active Learning for endoscopic image segmentation via human--machine chromatic discrepancy},
+  author={Han, Tianyu and Xu, Zhimin and Wang, Yuerong and Xu, Huiyan and Hu, Haohao and He, Song and Zan, Peng and Bo, Xiaochen},
+  journal={Biomedical Signal Processing and Control},
+  volume={120},
+  pages={110186},
+  year={2026},
+  publisher={Elsevier}
+}
+```
